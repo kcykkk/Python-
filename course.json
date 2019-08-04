@@ -1,0 +1,389 @@
+{
+  "version": "1",
+  "title": "Python教程",
+  "author": "GitCourse",
+  "description": "Python教程，包括基础教程和高级教程",
+  "scenarios": [
+    {
+      "title": "Python 简介",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 简介",
+          "text": "setup/Python 简介.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 环境搭建",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 环境搭建",
+          "text": "setup/Python 环境搭建.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 中文编码",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 中文编码",
+          "text": "setup/Python 中文编码.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 基础语法",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 基础语法",
+          "text": "setup/Python 基础语法.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 变量类型",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 变量类型",
+          "text": "setup/Python 变量类型.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 运算符",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 运算符",
+          "text": "setup/Python 运算符.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 条件语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 条件语句",
+          "text": "setup/Python 条件语句.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 循环语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 循环语句",
+          "text": "setup/Python 循环语句.md"
+        }
+      ]
+    },
+    {
+      "title": "Python While 循环语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python While 循环语句",
+          "text": "setup/Python While 循环语句.md"
+        }
+      ]
+    },
+    {
+      "title": "Python for 循环语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python for 循环语句",
+          "text": "setup/Python for 循环语句.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 循环嵌套",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 循环嵌套",
+          "text": "setup/Python 循环嵌套.md"
+        }
+      ]
+    },
+    {
+      "title": "Python break 语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python break 语句",
+          "text": "setup/Python break 语句.md"
+        }
+      ]
+    },
+    {
+      "title": "Python continue 语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python continue 语句",
+          "text": "setup/Python continue 语句.md"
+        }
+      ]
+    },
+    {
+      "title": "Python pass 语句",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python pass 语句",
+          "text": "setup/Python pass 语句.md"
+        }
+      ]
+    },
+    {
+      "title": "Python Number(数字)",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python Number(数字)",
+          "text": "setup/Python Number(数字).md"
+        }
+      ]
+    },
+    {
+      "title": "Python 字符串",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 字符串",
+          "text": "setup/Python 字符串.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 列表(List)",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 列表(List)",
+          "text": "setup/Python 列表(List).md"
+        }
+      ]
+    },
+    {
+      "title": "Python 元组",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 元组",
+          "text": "setup/Python 元组.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 字典",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 字典",
+          "text": "setup/Python 字典.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 日期和时间",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 日期和时间",
+          "text": "setup/Python 日期和时间.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 函数",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 函数",
+          "text": "setup/Python 函数.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 模块",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 模块",
+          "text": "setup/Python 模块.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 文件I/O",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 文件I/O",
+          "text": "setup/Python 文件I/O.md"
+        }
+      ]
+    },
+    {
+      "title": "Python File 方法",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python File 方法",
+          "text": "setup/Python File 方法.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 异常处理",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 异常处理",
+          "text": "setup/Python 异常处理.md"
+        }
+      ]
+    },
+    {
+      "title": "Python OS 文件/目录方法",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python OS 文件/目录方法",
+          "text": "setup/Python OS 文件/目录方法.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 面向对象",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 面向对象",
+          "text": "setup/Python 面向对象.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 正则表达式",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 正则表达式",
+          "text": "setup/Python 正则表达式.md"
+        }
+      ]
+    },
+    {
+      "title": "Python CGI 编程",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python CGI 编程",
+          "text": "setup/Python CGI 编程.md"
+        }
+      ]
+    },
+    {
+      "title": "Python MySQL",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python MySQL",
+          "text": "setup/Python MySQL.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 网络编程",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 网络编程",
+          "text": "setup/Python 网络编程.md"
+        }
+      ]
+    },
+    {
+      "title": "Python SMTP",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python SMTP",
+          "text": "setup/Python SMTP.md"
+        }
+      ]
+    },
+    {
+      "title": "Python 多线程",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 多线程",
+          "text": "setup/Python 多线程.md"
+        }
+      ]
+    },
+    {
+      "title": "Python XML 解析",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python XML 解析",
+          "text": "setup/Python XML 解析.md"
+        }
+      ]
+    },
+    {
+      "title": "Python GUI 编程(Tkinter)",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python GUI 编程(Tkinter)",
+          "text": "setup/Python GUI 编程(Tkinter).md"
+        }
+      ]
+    },
+    {
+      "title": "Python 2.x与3.x版本区别",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python 2.x与3.x版本区别",
+          "text": "setup/Python 2.x与3.x版本区别.md"
+        }
+      ]
+    },
+    {
+      "title": "Python IDE",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python IDE",
+          "text": "setup/Python IDE.md"
+        }
+      ]
+    },
+    {
+      "title": "Python JSON",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:python",
+      "steps": [
+        {
+          "title": "Python JSON",
+          "text": "setup/Python JSON.md"
+        }
+      ]
+    }
+
+  ]
+}
